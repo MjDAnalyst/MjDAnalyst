@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Mujidat- Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -42,7 +42,7 @@ Click the green **"Use this template"** button at the top of this repository pag
 
 ### 2. Name Your Repository for GitHub Pages
 This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
+`MjDAnalyst.github.io`
 *(Replace `your-username` with your actual GitHub username.)*
 
 ### 3. Customize Your Portfolio
