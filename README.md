@@ -43,8 +43,10 @@ Here’s what I implemented:
 
 Tools used :Python Pandas Scikit-learn , Matplotlib, Seaborn
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
-
+HR Workforce Analysis
+I transformed raw HR data into strategic workforce insights using SQL and Power BI. 
+Skills: data cleaning and Preparation, data analysis, data visualization and Report writting.
+Tools used SQL, Power BI and Microsoft word
 
 ## 🛠️ Skills
 
