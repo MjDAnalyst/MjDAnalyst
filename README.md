@@ -28,8 +28,20 @@ Business Recommendation
 Banks can use the model to improve loan approval decisions and reduce risk exposure.A brief description of your project, the tools used, and the key insights derived.
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+Heart disease Prediction using machine learning
+Using the UCI Heart Disease Dataset (303 patient records, 14 clinical features), I built a supervised binary classification pipeline to predict the presence of cardiovascular disease.
+Key highlights: Identified medically relevant predictors like chest pain type, maximum heart rate, and ST depression. 
+                        Compared model trade-offs between interpretability and performance.
+ 
+Here’s what I implemented:
+• Exploratory Data Analysis with meaningful visual insights
+• Data cleaning, encoding & feature scaling (StandardScaler)
+• Train–test split with reproducibility
+• Baseline Model: Logistic Regression
+• Advanced Models: Decision Tree & Random Forest
+• Evaluation using Accuracy, Precision, Recall & F1-score                       
 
+Tools used :Python Pandas Scikit-learn , Matplotlib, Seaborn
 ### Project Title Three
 *A brief description of your project, the tools used, and the key insights derived.*
 
@@ -38,8 +50,8 @@ Banks can use the model to improve loan approval decisions and reduce risk expos
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
+- **Data Visualization**: Power BI, Matplotlib.
+- **Data Analysis**: SQL, Python (Pandas), Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
 - **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
