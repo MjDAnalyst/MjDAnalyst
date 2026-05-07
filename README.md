@@ -1,5 +1,4 @@
 # Mujidat- Data Analysis Portfolio
-
 About me 
 I’m Mujidat, a Quality Assurance professional transitioning into Data Analytics and Data Science.
 
