@@ -1,6 +1,13 @@
 # Mujidat- Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+About me 
+I’m Mujidat, a Quality Assurance professional transitioning into Data Analytics and Data Science.
+
+Working in QA exposed me to how important data is in monitoring quality,improving operations, and making smarter business decisions. That curiosity pushed me into the world of analytics,where I now enjoy transforming raw data into insights that can create real impact.
+
+I’m currently building projects around credit risk analysis, machine learning, and business analytics using tools like Python, SQL, Excel, and Power BI.
+
+I believe growth happens one project, one challenge, and one lesson at a time, and this GitHub is a reflection of that journey.
 
 ## About This Portfolio Template
 
