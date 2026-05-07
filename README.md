@@ -1,5 +1,4 @@
 # Mujidat- Data Analysis Portfolio
-About me 
 I’m Mujidat, a Quality Assurance professional transitioning into Data Analytics and Data Science.
 
 Working in QA exposed me to how important data is in monitoring quality,improving operations, and making smarter business decisions. That curiosity pushed me into the world of analytics,where I now enjoy transforming raw data into insights that can create real impact.
