@@ -15,7 +15,17 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+Credit Risk Scoring for Underbanked Populations.
+Objective:Predict loan default risk using machine learning techniques.
+Tools Used: Python, Pandas, Scikit-learn,Matplotlib, Seaborn
+
+Key Insights:
+Customers with lower income showed higher default rates.
+Cluster 1 had the best repayment behavior.
+Education and employment influenced loan performance
+                        
+Business Recommendation
+Banks can use the model to improve loan approval decisions and reduce risk exposure.A brief description of your project, the tools used, and the key insights derived.
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
