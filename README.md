@@ -53,6 +53,7 @@ HR Workforce Analysis
 I transformed raw HR data into strategic workforce insights using SQL and Power BI. 
 Skills: data cleaning and Preparation, data analysis, data visualization and Report writting.
 Tools used SQL, Power BI and Microsoft word
+This HR analytics exercise highlights crucial workforce patterns that influence recruitment, retention, and organizational culture. The insights support more strategic planning on workforce diversity, succession, and resource allocation. With data-driven decision-making, management can enhance employee experience, build a more inclusive workforce, and strengthen long-term organizational sustainability
 
 ## 🛠️ Skills
 
