@@ -1,4 +1,4 @@
-# Mujidat- Data Analysis Portfolio
+# Hi, there I'm Mujidat
 I’m Mujidat, a Quality Assurance professional transitioning into Data Analytics and Data Science.
 
 Working in QA exposed me to how important data is in monitoring quality,improving operations, and making smarter business decisions. That curiosity pushed me into the world of analytics,where I now enjoy transforming raw data into insights that can create real impact.
@@ -58,9 +58,3 @@ This HR analytics exercise highlights crucial workforce patterns that influence 
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
 
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
-
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
